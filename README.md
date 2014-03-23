@@ -31,4 +31,4 @@ Especificaciones Técnicas
 
 Licencia
 ---------
-
+GPL3
